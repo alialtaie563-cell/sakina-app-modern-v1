@@ -1,0 +1,23 @@
+{
+  "short_name": "سكينة",
+  "name": "تطبيق سكينة - رفيقك الروحي",
+  "description": "رفيق روحي ذكي يعمل بدون إنترنت، يساعدك على المحافظة على صلاتك ووردك اليومي.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4358/4358666.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4358/4358666.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ffffff",
+  "background_color": "#fdfbf7",
+  "scope": "/"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sakina (سكينة)",
+  "description": "A hyper-personalized, AI-driven spiritual companion designed for the modern believer. Features mood-based Quranic indexing and intelligent cognitive nudges.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
